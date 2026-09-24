@@ -24,8 +24,8 @@ Production-style Playwright + TypeScript automation framework with:
 
 - Page Object Model
 - UI and API tests
-- fixtures and reusable test architecture
-- smoke and regression coverage
+- Fixtures and reusable test architecture
+- Smoke and regression coverage
 - GitHub Actions CI/CD
 - QA strategy and bug-report documentation
 
@@ -35,13 +35,13 @@ Production-style Playwright + TypeScript automation framework with:
 
 Risk-based QA framework demonstrating how I approach testing AI/LLM-powered systems:
 
-- tool-call validation
-- context and memory testing
-- verified task completion
-- retries and failure recovery
-- duplicate-action prevention
-- prompt-injection scenarios
-- regression and evaluation tests
+- Tool-call validation
+- Context and memory testing
+- Verified task completion
+- Retries and failure recovery
+- Duplicate-action prevention
+- Prompt-injection scenarios
+- Regression and evaluation tests
 - CI/CD integration
 
 [View repository](https://github.com/alexeykryukov/ai-agent-qa-testing-demo)
@@ -61,7 +61,10 @@ Risk-based QA framework demonstrating how I approach testing AI/LLM-powered syst
 
 ## Work With Me
 
-I am available for QA Automation, QA Lead, API Testing, AI/LLM Testing, and QA Strategy projects.
+I am open to remote contract and long-term opportunities in QA Automation, QA Leadership, API Testing, AI/LLM Testing, and QA Strategy.
+
+**LinkedIn:**  
+https://www.linkedin.com/in/alexeykryukov/
 
 **Upwork:**  
 https://www.upwork.com/freelancers/alexey
