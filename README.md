@@ -58,7 +58,18 @@ How I reduced regression time by ~90% with around 500 automated tests.
 - ~90% reduction in regression time
 - Playwright + TypeScript + API setup + CI/CD
 
-[Read the full case study →](https://alexeykryukov.github.io/case-studies/playwright-regression-automation.html)
+[Read the full case study →](https://alexeykryukov.github.io/case-studies/playwright-regression-automation.html
+
+### QA Business Impact Case Study
+
+How QA uncovered defects blocking several sales channels.
+
+- Identified defects affecting real customer sales flows
+- Several sales channels were blocked
+- After fixes, sales through those channels increased by ~500%
+- Roughly $500k in business impact
+
+[Read the full case study →](https://alexeykryukov.github.io/case-studies/qa-sales-channel-impact.html)
 
 ## Professional Background
 
