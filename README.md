@@ -48,6 +48,18 @@ Risk-based QA framework demonstrating how I approach testing AI/LLM-powered syst
 
 [View repository](https://github.com/alexeykryukov/ai-agent-qa-testing-demo)
 
+### Real-world Playwright Automation Case Study
+
+How I reduced regression time by ~90% with around 500 automated tests.
+
+- Built Playwright automation from scratch as the sole QA
+- ~500 automated tests
+- ~95% coverage of key application and business flows
+- ~90% reduction in regression time
+- Playwright + TypeScript + API setup + CI/CD
+
+[Read the full case study →](https://alexeykryukov.github.io/case-studies/playwright-regression-automation.html)
+
 ## Professional Background
 
 - 13+ years in Software QA and Engineering
