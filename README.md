@@ -58,7 +58,7 @@ How I reduced regression time by ~90% with around 500 automated tests.
 - ~90% reduction in regression time
 - Playwright + TypeScript + API setup + CI/CD
 
-[Read the full case study →](https://alexeykryukov.github.io/case-studies/playwright-regression-automation.html
+[Read the full case study →](https://alexeykryukov.github.io/case-studies/playwright-regression-automation.html)
 
 ### QA Business Impact Case Study
 
