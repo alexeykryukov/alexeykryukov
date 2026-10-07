@@ -4,6 +4,8 @@ Senior QA Automation Engineer with 13+ years of experience in software quality, 
 
 I help engineering teams build reliable QA processes, scalable automation, and practical regression strategies for Web, Mobile, API, and AI-powered applications.
 
+🌐 **Portfolio & Case Studies:** [alexeykryukov.github.io](https://alexeykryukov.github.io/)
+
 ## Core Expertise
 
 - Playwright, Cypress, Selenium
@@ -63,8 +65,11 @@ Risk-based QA framework demonstrating how I approach testing AI/LLM-powered syst
 
 I am open to remote contract and long-term opportunities in QA Automation, QA Leadership, API Testing, AI/LLM Testing, and QA Strategy.
 
-**LinkedIn:**  
+Portfolio:
+https://alexeykryukov.github.io/
+
+LinkedIn:
 https://www.linkedin.com/in/alexeykryukov/
 
-**Upwork:**  
+Upwork:
 https://www.upwork.com/freelancers/alexey
